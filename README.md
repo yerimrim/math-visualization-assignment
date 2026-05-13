@@ -2,7 +2,7 @@
 Create functions from simple to complex, visualize mathematical equations, and predict values using Python.
 
 
-## Library
+## Libraries
 - Numpy
 - Matplotlib
 
@@ -14,13 +14,15 @@ Create functions from simple to complex, visualize mathematical equations, and p
 pip install numpy matplotlib
 ```
 
-2. Run the python file:
-math_visualization.ipynb
+2. Open and run the Jupyter Notebook:
+```bash
+jupyter notebook math_visualization.ipynb
+```
 
 3. Generated graph images will be saved automatically as .png files.
 
 
-## graphs overview
+## Graphs Overview
 ![Function Plot](output/function_plot.png)
 
 This graph compares linear, quadratic, trigonometric, and exponential functions.
