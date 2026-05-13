@@ -12,6 +12,7 @@ Create functions from simple to complex, visualize mathematical equations, and p
 
 ```bash
 pip install numpy matplotlib
+```
 
 2. Run the python file:
 math_visualization.ipynb
