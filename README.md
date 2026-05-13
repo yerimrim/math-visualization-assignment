@@ -37,6 +37,7 @@ This bar chart shows the total scores of students based on weighted midterm and 
 
 This plot uses a best-fit line to visualize and predict final scores from midterm scores.
 
+---
 
 ## How does visualization help us understand mathematical functions and data?
 Visualization helps us understand patterns, trends, and relationships in mathematical functions and datasets. Graphs make it easier to see changes in values, compare data, and interpret equations visually instead of only using numbers.
